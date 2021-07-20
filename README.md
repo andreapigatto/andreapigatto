@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨ Working on the nth side-project
-- 👀 Looking for the next project to work for
+- 👀 Looking for a new project to work for
 - 🎉 Where is the next music festival?
 
 ##### BIO
