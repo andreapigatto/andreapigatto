@@ -1,5 +1,35 @@
 ### Hi there 👋
 
+#### I'm an 🇮🇹 Frontend Developer working remotely from Prague, CZ 🇨🇿 
+
+##### NOW
+
+- ✨ Working on the nth side-project
+- 👀 Looking for the next project to work for
+- 🎉 Where is the next music festival?
+
+##### BIO
+
+- 🏢 I'm currently working at **Billigence, Australia**
+- ⚙️ I use daily: `.jsx`, `.html`, `.scss`, `.tsx`
+- 💅 Designed: [Tableau Extensions at Billigence](https://billigence.com/tableau-extensions/)
+- 🌱 Learning something new every day related to frontend, backend and fullstack development
+- 💬 Ping me about **design**, **development**, **deployment**
+
+##### CONTACTS
+
+
+<p align='center'>
+  <a href="mailto:andreapigatto01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/andrea-pigatto-843b5a2b/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
 <!--
 **andreapigatto/andreapigatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
