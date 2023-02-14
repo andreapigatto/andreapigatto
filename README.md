@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working for **Billigence, Australia**
+- 🏢 I'm currently working for **Trustyou, Munich**
 - ⚙️ I use daily: `.jsx`, `.html`, `.scss`, `.tsx`
 - 💅 Developed: [Tableau Extensions at Billigence](https://billigence.com/tableau-extensions/)
 - 🌱 Learning something new every day related to frontend, backend and fullstack development
