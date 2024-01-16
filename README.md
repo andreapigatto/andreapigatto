@@ -10,10 +10,10 @@
 
 ##### BIO
 
-- 🏢 I'm currently working for **Trustyou, Munich**
-- ⚙️ I use daily: `.jsx`, `.html`, `.scss`, `.tsx`
+- 🏢 I'm currently working on some side projects and looking for new opportunities 
+- ⚙️ I use daily: `.tsx`, `.html`, `.scss`
 - 💅 Developed: [Tableau Extensions at Billigence](https://billigence.com/tableau-extensions/)
-- 🌱 Learning something new every day related to frontend, backend and fullstack development
+- 🌱 Learning something new every day related to frontend, backend and full-stack development
 - 💬 Ping me about **design**, **development**, **deployment**
 
 ##### CONTACTS
