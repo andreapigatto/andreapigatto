@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-#### I'm an 🇮🇹 Frontend Developer working remotely from Prague, CZ 🇨🇿 
+#### I'm an 🇮🇹 Full Stack Developer working remotely from Prague, CZ 🇨🇿 
 
 ##### NOW
 
 - ✨ Working on the nth personal side-project
-- 👀 Looking for a new project to work for
-- 🎉 Where is the next music festival?
+- 📈 Stock market and crypto investor
+- 🏝️🍹⛱ Where to travel next?
 
 ##### BIO
 
 - 🏢 I'm currently working on some side projects and looking for new opportunities 
-- ⚙️ I use daily: `.tsx`, `.html`, `.scss`
+- ⚙️ I use daily: `.tsx`, `.html`, `.scss`, `.yaml`
 - 💅 Developed: [Tableau Extensions at Billigence](https://billigence.com/tableau-extensions/)
-- 🌱 Learning something new every day related to frontend, backend and full-stack development
+- 🌱 Learning something new every day related to frontend, backend and full stack development
 - 💬 Ping me about **design**, **development**, **deployment**
 
 ##### CONTACTS
